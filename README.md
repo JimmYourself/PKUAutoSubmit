@@ -1,5 +1,5 @@
 # PKUAutoSubmit (modified)
-柔情不为暮色开。
+柔情不为暮色开
 
 ## What did I do
 
